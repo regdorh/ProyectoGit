@@ -1,0 +1,54 @@
+.textoDigimon{
+    background: linear-gradient(112.1deg, rgb(77, 238, 253) 0.7%, rgb(3, 151, 232) 26.1%, rgb(47, 31, 116) 95.7%);
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: Garamond, serif;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.navbar{
+        background: linear-gradient(112.1deg, rgb(77, 238, 253) 0.7%, rgb(3, 151, 232) 26.1%, rgb(47, 31, 116) 95.7%);
+        height: 15vh;
+}
+        
+h1{text-align: center;
+        color: blue;
+  font-family: 'Brush Script MT', cursive;
+}
+
+.organizacion_footer{text-align: center;
+                     color: white;
+                     background: linear-gradient(112.1deg, rgb(77, 238, 253) 0.7%, rgb(3, 151, 232) 26.1%, rgb(47, 31, 116) 95.7%);
+                     margin-left: 530px;
+                     margin-right: 530px;
+                     margin-top: 15%;
+}
+
+
+label{color: white;
+}
+
+h1{color: white;
+}
+
+#imagenDigimon{position: relative;
+               left: 525px;
+}
+
+#mi_footer{
+    background-image: url("../img/anime-digimon-digimon-tri-wallpaper-preview .jpg");
+    height: 170px;
+}
+
+form{position: relative;
+               left: 395px;
+}
+
+#caja2{text-align: center;
+       color: white;
+}
+
+
+
