@@ -11,11 +11,12 @@
 .navbar{
         background: linear-gradient(112.1deg, rgb(77, 238, 253) 0.7%, rgb(3, 151, 232) 26.1%, rgb(47, 31, 116) 95.7%);
         height: 15vh;
+        
 }
         
 h1{text-align: center;
-        color: blue;
-  font-family: 'Brush Script MT', cursive;
+   color: white;
+   font-family: 'Brush Script MT', cursive;
 }
 
 .organizacion_footer{text-align: center;
@@ -30,8 +31,7 @@ h1{text-align: center;
 label{color: white;
 }
 
-h1{color: white;
-}
+
 
 #imagenDigimon{position: relative;
                left: 525px;
@@ -49,6 +49,10 @@ form{position: relative;
 #caja2{text-align: center;
        color: white;
 }
+
+.navbar-brand, .nav-link{
+    color: white;
+   }
 
 
 
