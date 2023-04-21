@@ -1,6 +1,6 @@
 /*
 function consultarDigimon(){
-    alert('funciona');
+    alert('funciona'); <p></p>
 }
 */
 
